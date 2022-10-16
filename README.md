@@ -1,8 +1,6 @@
-# Fabric Example Mod
+# Mint
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+A currency mod for Minecraft Fabric 1.18.2.
 
 ## License
 
